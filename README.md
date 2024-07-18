@@ -19,7 +19,7 @@
 </div>
 
 <h1 align="center">
-  Hi there, I'm Sai Prananv!
+  Hi there, I'm Sai Prannav!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
